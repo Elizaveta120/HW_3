@@ -1,4 +1,5 @@
-# HW_JS
+# HW
+
 JavaScript
 
 #!/bin/bash
